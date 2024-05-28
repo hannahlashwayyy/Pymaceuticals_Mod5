@@ -1,0 +1,16 @@
+Looking at our Summary statistics table, we can see that Capomulin and Ramicane had the lowest mean 
+tumor size/volume and additionally also had comparatively low variance and standard deviations. In short, this means 
+that these two medications were the most effective in reducing tumor size and were also able to do so consistently as demonstrated 
+by the low variance and standard deviaton. This is good news for our company Pymaceuticals Inc. as our drug of interest, Capomulin was one 
+of the top two drugs in terms of overall performance in tumor size reduction and consistent effectiveness at reducing tumor size.
+I feel there may be a slight bias in this data because when looking at our bar plots to compare the frequency of which drugs were 
+used in the drug regimens for a mouse, there is a significantly higher number of both Capomulin and Ramicane. Our gender 
+distribution doesn't tell us anything particularly interesting, just that there is a pretty equal distribution of male and female mice used 
+in our study. Looking at our box plots we can see that Infubinol was the only medicine with any outliers, but more importantly, 
+we see that Capomulin and Ramicane both had significantly lower final tumor volumes which corroborates our first observation that 
+those two medicines were most effective at reducing tumor size. Looking at our line plot for the tumor size of a mouse 
+treated with Capomulin, we can observe that the medicine seems to have an impact on reducing tumor size after 20 days of use, 
+with an increase in effictivity after 30 days of use. However, it is important to note, that there is an uptick in tumor
+size at around 35 days which should be noted when determining how long to perscribe it for should it be approved for humans. 
+Lastly, there is a positive correlation between the tumor volume and weight of the mouse, the larger the tumor size, the larger the mouse. 
+This can simply be explained by considering that the larger the tumor, the more it weighs, hence the overall weight of the mouse with a larger tumor would be more. 
